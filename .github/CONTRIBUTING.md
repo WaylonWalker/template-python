@@ -32,19 +32,19 @@ When contributing a new example or making a change to a library please keep your
 #### Don't
 
 * Don't include any license information in your examples- our repositories are MIT licensed
-* Don't credit yourself as the author in examples- you will appear on the contributors page
+* Don't credit yourself as the author in examples- you will automatically appear on the GitHub contributors page
 * Don't try to do too much at once- submit one or two examples at a time, and be receptive to feedback
 
-### If you're submitting an example...
+### If you're submitting an example
 
 Try to do one thing, an do it concisely. Keep it simple. Don't mix too many ideas.
 
 The ideal example should:
 
-* demonstrate one idea, technique or API as concisely as possible.
-* *just work* when you run it. Although sometimes configuration is necessary.
-* be well commented and attempt to teach the user how and why it works.
-* document any configuration that needs to be added, and how to find API keys, etc.
+* demonstrate one idea, technique or API as concisely as possible
+* *just work* when you run it. Although sometimes configuration is necessary
+* be well commented and attempt to teach the user how and why it works
+* document any required configuration, and how to install API keys, dependencies, etc
 
 ### Licensing
 
@@ -60,5 +60,13 @@ Once you're ready to share your contribution with us you should submit it as a P
 
 * Be ready to receive and embrace constructive feedback.
 * Be prepared for rejection; we can't always accept contributions. If you're unsure, ask first!
+
+## Thank you!
+
+If you have any questions, concerns or comments about these guidelines, please get in touch. You can do this by raising an issue against our template repository here: https://github.com/pimoroni/template-python
+
+Above all else, we hope you enjoy yourself, learn things and make and share great contributions.
+
+Happy hacking!
 
 - The Pirate Crew
