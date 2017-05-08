@@ -46,6 +46,12 @@ The ideal example should:
 * be well commented and attempt to teach the user how and why it works.
 * document any configuration that needs to be added, and how to find API keys, etc.
 
+#### Licensing
+
+When you submit code to our libraries, you implicitly agree to adopt the library license. This is usually the MIT license, which permits Commercial Use, Modification, Distribution and Private use of our code, and therefore also your contributions. You can learn more about the MIT license at Wikipedia: https://en.wikipedia.org/wiki/MIT_License
+
+#### Subitting your code
+
 Once you're ready to share your contribution with us you should submit it as a Pull Request.
 
 * Be ready to receive and embrace constructive feedback.
