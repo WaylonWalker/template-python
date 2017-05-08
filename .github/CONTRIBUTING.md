@@ -12,9 +12,25 @@ We can't think of everything. If you've got a good idea for a feature, then plea
 
 Feature suggestions are embraced, but will often be filed for a rainy day. If you require a feature urgently it's best to write it yourself. Don't forget to share ;)
 
+When suggesting a feature, make sure to:
+
+* Check the code on GitHub to make sure it's not already hiding in an unreleased version ;)
+* Considered if it's necessary in the library, or is an advanced technique that could be separately explained in an example
+* Check existing issues, open and closed, to make sure it hasn't already been suggested
+
 ## Filing a bug report
 
 If you run into a problem with one of our libraries or examples then please let us know. Be as detailed as possible, and be ready to answer questions when we get back to you.
+
+Please include details such as:
+
+* Your model of Raspberry Pi
+* The OS you're using (`lsb_release -d` and `uname -a`)
+* The steps you've taken so far
+* Any solutions you've tried
+* A paste/picture of the complete error output from the failing script or library
+
+We have a diagnostic script: `curl get.pimoroni.com/diagnostic | bash` to help you gather information.
 
 ## Submitting a pull request
 
