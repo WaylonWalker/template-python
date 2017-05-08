@@ -48,7 +48,11 @@ The ideal example should:
 
 ### Licensing
 
-When you submit code to our libraries, you implicitly agree to adopt the library license. This is usually the MIT license, which permits Commercial Use, Modification, Distribution and Private use of our code, and therefore also your contributions. You can learn more about the MIT license at Wikipedia: https://en.wikipedia.org/wiki/MIT_License
+When you submit code to our libraries, you implicitly and irrevocably agree to adopt the associated license. You should be able to find this in the file named `LICENSE`.
+
+We typically use the MIT license; which permits Commercial Use, Modification, Distribution and Private use of our code, and therefore also your contributions. It also provides good compatibility with other licenses, and is intended to make re-use of our code as painless as possible for all parties.
+
+You can learn more about the MIT license at Wikipedia: https://en.wikipedia.org/wiki/MIT_License
 
 ### Subitting your code
 
