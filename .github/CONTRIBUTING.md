@@ -35,6 +35,17 @@ When contributing a new example or making a change to a library please keep your
 * Don't credit yourself as the author in examples- you will appear on the contributors page
 * Don't try to do too much at once- submit one or two examples at a time, and be receptive to feedback
 
+#### If you're submitting an example...
+
+Try to do one thing, an do it concisely. Keep it simple. Don't mix too many ideas.
+
+The ideal example should:
+
+* demonstrate one idea, technique or API as concisely as possible.
+* *just work* when you run it. Although sometimes configuration is necessary.
+* be well commented and attempt to teach the user how and why it works.
+* document any configuration that needs to be added, and how to find API keys, etc.
+
 Once you're ready to share your contribution with us you should submit it as a Pull Request.
 
 * Be ready to receive and embrace constructive feedback.
