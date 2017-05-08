@@ -53,7 +53,7 @@ When contributing a new example or making a change to a library please keep your
 
 ### If you're submitting an example
 
-Try to do one thing, an do it concisely. Keep it simple. Don't mix too many ideas.
+Try to do one thing, and do it concisely. Keep it simple. Don't mix too many ideas.
 
 The ideal example should:
 
@@ -64,7 +64,7 @@ The ideal example should:
 
 ### Licensing
 
-When you submit code to our libraries, you implicitly and irrevocably agree to adopt the associated license. You should be able to find this in the file named `LICENSE`.
+When you submit code to our libraries, you implicitly and irrevocably agree to adopt the associated licenses. You should be able to find this in the file named `LICENSE`.
 
 We typically use the MIT license; which permits Commercial Use, Modification, Distribution and Private use of our code, and therefore also your contributions. It also provides good compatibility with other licenses, and is intended to make re-use of our code as painless as possible for all parties.
 
