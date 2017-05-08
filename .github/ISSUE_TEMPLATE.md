@@ -8,7 +8,7 @@ Please include details such as:
 * The OS you're using (`lsb_release -d` and `uname -a`)
 * The steps you've taken so far
 * Any solutions you've tried
-* A paste of any error output from a script or library
+* A paste/picture of the complete error output from the failing script or library
 
 We have a diagnostic script: `curl get.pimoroni.com/diagnostic | bash` to help you gather information.
 
