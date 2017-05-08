@@ -14,4 +14,4 @@ We have a diagnostic script: `curl get.pimoroni.com/diagnostic | bash` to help y
 
 Ready? Please delete this text and let us know what's troubling you!
 
-- The Pirate Crew
+-- The Pirate Crew
