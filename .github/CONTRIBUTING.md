@@ -69,4 +69,4 @@ Above all else, we hope you enjoy yourself, learn things and make and share grea
 
 Happy hacking!
 
-- The Pirate Crew
+-- The Pirate Crew
